@@ -101,7 +101,7 @@
             {
                 display: block;
                 cursor: pointer;
-                padding: 4px;
+                padding: 10px;
                 background-color: #f9f9f9;
                 border-bottom: solid 1px #ff0000;
             }
@@ -109,7 +109,7 @@
             .chatRoom .content .users .loginUser
             {
                 display: block;
-                padding: 4px;
+                padding: 10px;
                 color: gray;
                 border-bottom: solid 1px #ff0000;
             }
@@ -153,6 +153,7 @@
         background-color: #ffcccc;
         border-bottom: #ff0000 solid 1px;
         color: #1e4638;
+        padding: 10px;
     }
 
     .draggable .selText

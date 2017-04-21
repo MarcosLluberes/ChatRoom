@@ -153,6 +153,7 @@
         background-color: #ffcccc;
         border-bottom: #ff0000 solid 1px;
         color: #1e4638;
+        padding: 10px;
     }
 
     .draggable .selText
