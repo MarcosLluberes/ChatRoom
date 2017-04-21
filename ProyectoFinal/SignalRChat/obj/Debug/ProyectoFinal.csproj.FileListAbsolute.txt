@@ -15,3 +15,4 @@ C:\Users\Marcos Lluberes\Documents\GitHub\ChatRoom\ProyectoFinal\SignalRChat\bin
 C:\Users\Marcos Lluberes\Documents\GitHub\ChatRoom\ProyectoFinal\SignalRChat\bin\Newtonsoft.Json.xml
 C:\Users\Marcos Lluberes\Documents\GitHub\ChatRoom\ProyectoFinal\SignalRChat\obj\Debug\ProyectoFinal.dll
 C:\Users\Marcos Lluberes\Documents\GitHub\ChatRoom\ProyectoFinal\SignalRChat\obj\Debug\ProyectoFinal.pdb
+C:\Users\Marcos Lluberes\Documents\GitHub\ChatRoom\ProyectoFinal\SignalRChat\obj\Debug\ProyectoFinal.csprojResolveAssemblyReference.cache
